@@ -1,7 +1,7 @@
 Python Prompt Toolkit
 =====================
 
-|Build Status|  |AppVeyor|  |PyPI|  |RTD|  |License|  |Codecov|
+|Build Status|  |AppVeyor|  |PyPI|  |RTD|  |License|
 
 .. image :: https://github.com/prompt-toolkit/python-prompt-toolkit/raw/master/docs/images/logo_400px.png
 
@@ -209,10 +209,6 @@ Special thanks to
 
 .. |License| image:: https://img.shields.io/github/license/prompt-toolkit/python-prompt-toolkit.svg
     :target: https://github.com/prompt-toolkit/python-prompt-toolkit/blob/master/LICENSE
-
-.. |Codecov| image:: https://codecov.io/gh/prompt-toolkit/python-prompt-toolkit/branch/master/graphs/badge.svg?style=flat
-    :target: https://codecov.io/gh/prompt-toolkit/python-prompt-toolkit/
-
 
 Other libraries and implementations in other languages
 ******************************************************
